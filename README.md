@@ -39,7 +39,6 @@
 
 * Fork this repo.
 * Clone the forked repo.
-* CREATE YOUR OWN FOLDER.
 * Make changes to the code.
 * Commit the changes.
 * Push the changes to the forked repo.
